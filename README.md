@@ -14,3 +14,5 @@ Data include
 * Metal distribution
 * Ocean state snapshot (GLODAP)
 * Current modeling
+
+The work is encapsulated in Jupyter notebooks with summaries in the GitHub pages site.
