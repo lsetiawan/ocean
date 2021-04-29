@@ -5,11 +5,13 @@
 
 ### Purpose
 
-This repository illustrates ocean data science machinery. Code is in Python, broken up into topic
-notebooks. Data are provided by the 
-[OOI Regional Cabled Array](https://interactiveoceans.washington.edu) and other research programs.
-To explore: Click on the binder badge above; typical start-up time is 3 minutes. Once binder
-finishes try running the first notebook, ***Ocean 01 A Photic Zone***. 
+This repository illustrates ocean data science. The code is Python broken up as topic
+notebooks. Data courtesy of 
+[OOI Regional Cabled Array](https://interactiveoceans.washington.edu), NASA, ARGO and other research programs.
+To explore: Click on the binder badge above to launch a sandbox copy.
+Typical start time will be about 3 minutes. Once binder
+finishes try running the first notebook, ***Ocean 01 A Photic Zone***.
+When you are done just close the browser tab and the sandbox will evaporate.
 
 
 
