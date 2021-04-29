@@ -2,6 +2,17 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robfatland/ocean/HEAD)
 
+
+### Purpose
+
+This repository illustrates ocean data science machinery. Code is in Python, broken up into topic
+notebooks. Data are provided by the 
+[OOI Regional Cabled Array](https://interactiveoceans.washington.edu) and other research programs.
+To explore: Click on the binder badge above; typical start-up time is 3 minutes.
+
+
+
+
 ### How was this repository binder-ized?
 
 Three steps
