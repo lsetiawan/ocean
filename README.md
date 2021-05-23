@@ -44,5 +44,5 @@ dependencies:
   - matplotlib
   - netcdf4
   - xarray
-  - ffmpg
+  - ffmpeg
 ```
